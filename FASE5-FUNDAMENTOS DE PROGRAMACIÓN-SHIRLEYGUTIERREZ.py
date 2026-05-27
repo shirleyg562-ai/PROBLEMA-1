@@ -1,4 +1,4 @@
-# Estudiante: SHIRLEY GUTIERREZ
+# Estudiante: SHIRLEY
 #FUNDAMENTOS DE PROGRAMACION
 # Matriz de sesiones:
 # [ID Cliente, Duración (segundos), Eventos Clics]
